@@ -1,0 +1,9 @@
+{
+    "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+    "type": "QuickStart",
+    "itemDisplayName": "RDS farm deployment using existing active directory",
+    "description": "This template creates an RDS farm deployment using existing active directory in same resource group",
+    "summary": "Creates and deploys fully functional RDS farm deployment using existing active directory in same resource group",
+    "githubUsername": "kingso",
+    "dateUpdated": "2018-05-22"
+  }
